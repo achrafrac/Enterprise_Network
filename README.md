@@ -28,5 +28,5 @@ In this project we configured all tasks requested in virtual machines with Ubunt
 <h3 align="center">Rapport</h3>
 if you are interested in this project you can contact me for the report and also all the configuration steps with screenes explains each step.
 
-<a href="mailto:achraf.rachid2001@gmail.com?subject=HTML link">achraf.rachid2001@gmail.com!</a>
+<a href="mailto:achraf.rachid2001@gmail.com?subject=HTML link">achraf.rachid2001@gmail.com</a>
 
