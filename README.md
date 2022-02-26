@@ -20,7 +20,7 @@ hosts, and one with restricted access (user-password).<br/>
 * A server managing the email exchange in the company.<br/>
 * LDAP (Lightweight Directory Access Protocol) is used for directory services and authentication.<br/>
 <h3 align="center">Schema</h3>
-![img2](https://user-images.githubusercontent.com/85987778/155847521-515bc8fa-b3f3-4050-88cb-1b0f0b514d73.jpg)
+![img2]()
 <h3 align="center">Tools</h3>
 In this project we configured all tasks requested in virtual machines with Ubuntu as a Operating System.
 <h3 align="center">Rapport</h3>
